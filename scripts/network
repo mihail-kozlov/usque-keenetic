@@ -129,7 +129,7 @@ fn_resolve_tun_interface_config() {
     fi
 
     if [ -z "$IFACE_NAME" ]; then
-        IFACE_NAME="usque"
+        IFACE_NAME="Usque"
     fi
 }
 
