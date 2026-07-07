@@ -1,6 +1,6 @@
 # usque-keenetic
 
-[![GitHub Release](https://img.shields.io/github/release/side-effect-tm/usque-keenetic?style=flat&color=green)](https://side-effect-tm.github.io/usque-keenetic/releases)
+[![GitHub Release](https://img.shields.io/github/release/side-effect-tm/usque-keenetic?style=flat&color=green)](https://github.com/mihail-kozlov/usque-keenetic/releases)
 [![License](https://img.shields.io/github/license/side-effect-tm/usque-keenetic.svg?style=flat&color=orange)](LICENSE)
 
 Адаптация [неофициального Cloudflare WARP клиента с режимом MASQUE](https://github.com/Diniboy1123/usque) для роутеров for Keenetic/Netcaze.
@@ -10,7 +10,7 @@
 > Вы можете использовать его на своем оборудовании при условии, что понимаете
 > смысл своих действий, осознаете риски и принимаете их.
 
-## ⚡ Тебования
+## ⚡ Требования
 
 * Keenetic OS >= 5.0 (предполагается использование встроенной DNS-маршрутизации)
 * Entware
